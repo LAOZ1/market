@@ -1,0 +1,120 @@
+[
+  {
+    "proveedor_rut": "99.554.560-8",
+    "proveedor_nombre": "COMERCIAL CCU S.A.",
+    "numero_factura": "177409636",
+    "fecha_emision": "2026-04-29",
+    "monto_total": 72956.0,
+    "items": [
+      {
+        "codigo_ccu": "1284",
+        "descripcion": "CRUSH ZERO PET 2000CC",
+        "codigo_barra_ean13": "7801620853198",
+        "embalaje": "CAJA X 6",
+        "cajas_recibidas": 1.0,
+        "unidades_base_ingresadas": 6,
+        "precio_caja": 5313.0,
+        "costo_unitario_botella": 885.50
+      },
+      {
+        "codigo_ccu": "1621",
+        "descripcion": "7UP ZERO PET 2000CC",
+        "codigo_barra_ean13": "7801620001322",
+        "embalaje": "CAJA X 6",
+        "cajas_recibidas": 1.0,
+        "unidades_base_ingresadas": 6,
+        "precio_caja": 5313.0,
+        "costo_unitario_botella": 885.50
+      },
+      {
+        "codigo_ccu": "870375",
+        "descripcion": "BILZ ZERO PET 2000CC",
+        "codigo_barra_ean13": "7801620006501",
+        "embalaje": "CAJA X 6",
+        "cajas_recibidas": 1.0,
+        "unidades_base_ingresadas": 6,
+        "precio_caja": 5313.0,
+        "costo_unitario_botella": 885.50
+      },
+      {
+        "codigo_ccu": "870376",
+        "descripcion": "PAP ZERO PET 2000CC",
+        "codigo_barra_ean13": "7801620006518",
+        "embalaje": "CAJA X 6",
+        "cajas_recibidas": 1.0,
+        "unidades_base_ingresadas": 6,
+        "precio_caja": 5313.0,
+        "costo_unitario_botella": 885.50
+      },
+      {
+        "codigo_ccu": "870690",
+        "descripcion": "PEPSI ZERO PET 2000CC",
+        "codigo_barra_ean13": "7801620006877",
+        "embalaje": "CAJA X 6",
+        "cajas_recibidas": 1.0,
+        "unidades_base_ingresadas": 6,
+        "precio_caja": 5313.0,
+        "costo_unitario_botella": 885.50
+      },
+      {
+        "codigo_ccu": "870831",
+        "descripcion": "LIMON SODA ZERO PET 2000CC",
+        "codigo_barra_ean13": "7801620007980",
+        "embalaje": "CAJA X 6",
+        "cajas_recibidas": 1.0,
+        "unidades_base_ingresadas": 6,
+        "precio_caja": 5313.0,
+        "costo_unitario_botella": 885.50
+      },
+      {
+        "codigo_ccu": "870852",
+        "descripcion": "GINGER ALE ZERO PET 2000CC",
+        "codigo_barra_ean13": "7801620002817",
+        "embalaje": "CAJA X 6",
+        "cajas_recibidas": 1.0,
+        "unidades_base_ingresadas": 6,
+        "precio_caja": 5313.0,
+        "costo_unitario_botella": 885.50
+      },
+      {
+        "codigo_ccu": "870855",
+        "descripcion": "KEM ZERO PET 2000CC",
+        "codigo_barra_ean13": "7801620005290",
+        "embalaje": "CAJA X 6",
+        "cajas_recibidas": 1.0,
+        "unidades_base_ingresadas": 6,
+        "precio_caja": 5313.0,
+        "costo_unitario_botella": 885.50
+      }
+    ]
+  },
+  {
+    "proveedor_rut": "99.554.560-8",
+    "proveedor_nombre": "COMERCIAL CCU S.A.",
+    "numero_factura": "177409637",
+    "fecha_emision": "2026-04-29",
+    "monto_total": 84001.0,
+    "items": [
+      {
+        "codigo_ccu": "1325",
+        "descripcion": "PEPSI PET 2000CC (TRADICIONAL)",
+        "codigo_barra_ean13": "7801620001018",
+        "embalaje": "CAJA X 6",
+        "cajas_recibidas": 4.0,
+        "unidades_base_ingresadas": 24,
+        "precio_caja": 4477.75,
+        "costo_unitario_botella": 746.29
+      },
+      {
+        "codigo_ccu": "870690",
+        "descripcion": "PEPSI ZERO PET 2000CC",
+        "codigo_barra_ean13": "7801620006877",
+        "embalaje": "CAJA X 6",
+        "cajas_recibidas": 6.0,
+        "unidades_base_ingresadas": 36,
+        "precio_caja": 4755.17,
+        "costo_unitario_botella": 792.53
+      }
+    ]
+  }
+]
